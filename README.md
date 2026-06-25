@@ -1,6 +1,6 @@
 # 6-DOF Robotic Arm Simulation with ROS2 Jazzy
 
-A professional 6-DOF robotic arm simulation using ROS2 Jazzy, Gazebo Harmonic, and RViz2.
+A professional 6-DOF robotic arm simulation using ROS2 Jazzy,and RViz2.
 
 ## 🎯 Features
 
