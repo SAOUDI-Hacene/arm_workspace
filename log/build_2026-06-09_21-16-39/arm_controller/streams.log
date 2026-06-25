@@ -1,0 +1,22 @@
+[1.523s] Invoking command in '/home/hacene/arm_workspace/build/arm_controller': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hacene/arm_workspace/build/arm_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hacene/arm_workspace/install/arm_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hacene/arm_workspace/build/arm_controller/build --no-deps symlink_data
+[2.199s] running develop
+[2.509s] running egg_info
+[2.510s] creating arm_controller.egg-info
+[2.540s] writing arm_controller.egg-info/PKG-INFO
+[2.541s] writing dependency_links to arm_controller.egg-info/dependency_links.txt
+[2.541s] writing requirements to arm_controller.egg-info/requires.txt
+[2.541s] writing top-level names to arm_controller.egg-info/top_level.txt
+[2.541s] writing manifest file 'arm_controller.egg-info/SOURCES.txt'
+[2.603s] reading manifest file 'arm_controller.egg-info/SOURCES.txt'
+[2.604s] writing manifest file 'arm_controller.egg-info/SOURCES.txt'
+[2.636s] running build_ext
+[2.636s] Creating /home/hacene/arm_workspace/install/arm_controller/lib/python3.12/site-packages/arm-controller.egg-link (link to .)
+[2.637s] 
+[2.637s] Installed /home/hacene/arm_workspace/build/arm_controller
+[2.637s] running symlink_data
+[2.637s] creating /home/hacene/arm_workspace/install/arm_controller/share/ament_index
+[2.637s] creating /home/hacene/arm_workspace/install/arm_controller/share/ament_index/resource_index
+[2.637s] creating /home/hacene/arm_workspace/install/arm_controller/share/ament_index/resource_index/packages
+[2.637s] symbolically linking /home/hacene/arm_workspace/build/arm_controller/resource/arm_controller -> /home/hacene/arm_workspace/install/arm_controller/share/ament_index/resource_index/packages
+[2.638s] symbolically linking /home/hacene/arm_workspace/build/arm_controller/package.xml -> /home/hacene/arm_workspace/install/arm_controller/share/arm_controller
+[2.679s] Invoked command in '/home/hacene/arm_workspace/build/arm_controller' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/hacene/arm_workspace/build/arm_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/hacene/arm_workspace/install/arm_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/hacene/arm_workspace/build/arm_controller/build --no-deps symlink_data

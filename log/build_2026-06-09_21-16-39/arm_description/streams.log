@@ -1,0 +1,47 @@
+[0.353s] Invoking command in '/home/hacene/arm_workspace/build/arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hacene/arm_workspace/src/arm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hacene/arm_workspace/install/arm_description
+[0.442s] -- The C compiler identification is GNU 13.3.0
+[0.531s] -- The CXX compiler identification is GNU 13.3.0
+[0.554s] -- Detecting C compiler ABI info
+[0.673s] -- Detecting C compiler ABI info - done
+[0.689s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.690s] -- Detecting C compile features
+[0.691s] -- Detecting C compile features - done
+[0.703s] -- Detecting CXX compiler ABI info
+[0.845s] -- Detecting CXX compiler ABI info - done
+[0.863s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.863s] -- Detecting CXX compile features
+[0.864s] -- Detecting CXX compile features - done
+[0.870s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.109s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.235s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.319s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.529s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.529s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.530s] -- Added test 'lint_cmake' to check CMake code style
+[1.532s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.534s] -- Added test 'xmllint' to check XML markup files
+[1.538s] -- Configuring done (1.2s)
+[1.542s] -- Generating done (0.0s)
+[1.545s] -- Build files have been written to: /home/hacene/arm_workspace/build/arm_description
+[1.552s] Invoked command in '/home/hacene/arm_workspace/build/arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hacene/arm_workspace/src/arm_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hacene/arm_workspace/install/arm_description
+[1.555s] Invoking command in '/home/hacene/arm_workspace/build/arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hacene/arm_workspace/build/arm_description -- -j8 -l8
+[1.614s] Invoked command in '/home/hacene/arm_workspace/build/arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hacene/arm_workspace/build/arm_description -- -j8 -l8
+[1.630s] Invoking command in '/home/hacene/arm_workspace/build/arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hacene/arm_workspace/build/arm_description
+[1.641s] -- Install configuration: ""
+[1.642s] -- Execute custom install script
+[1.642s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/ament_index/resource_index/package_run_dependencies/arm_description
+[1.655s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/ament_index/resource_index/parent_prefix_path/arm_description
+[1.668s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/environment/ament_prefix_path.sh
+[1.682s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/environment/ament_prefix_path.dsv
+[1.695s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/environment/path.sh
+[1.709s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/environment/path.dsv
+[1.723s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/local_setup.bash
+[1.740s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/local_setup.sh
+[1.757s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/local_setup.zsh
+[1.773s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/local_setup.dsv
+[1.792s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/package.dsv
+[1.808s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/ament_index/resource_index/packages/arm_description
+[1.823s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/cmake/arm_descriptionConfig.cmake
+[1.838s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/cmake/arm_descriptionConfig-version.cmake
+[1.853s] -- Symlinking: /home/hacene/arm_workspace/install/arm_description/share/arm_description/package.xml
+[1.874s] Invoked command in '/home/hacene/arm_workspace/build/arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hacene/arm_workspace/build/arm_description

@@ -1,0 +1,44 @@
+[0.354s] Invoking command in '/home/hacene/arm_workspace/build/arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hacene/arm_workspace/src/arm_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hacene/arm_workspace/install/arm_moveit_config
+[0.445s] -- The C compiler identification is GNU 13.3.0
+[0.542s] -- The CXX compiler identification is GNU 13.3.0
+[0.567s] -- Detecting C compiler ABI info
+[0.694s] -- Detecting C compiler ABI info - done
+[0.711s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.711s] -- Detecting C compile features
+[0.712s] -- Detecting C compile features - done
+[0.726s] -- Detecting CXX compiler ABI info
+[0.873s] -- Detecting CXX compiler ABI info - done
+[0.900s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.901s] -- Detecting CXX compile features
+[0.901s] -- Detecting CXX compile features - done
+[0.907s] -- Found ament_cmake: 2.5.6 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.147s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.271s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.363s] -- Found ament_lint_auto: 0.17.5 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.585s] -- Added test 'lint_cmake' to check CMake code style
+[1.587s] -- Added test 'xmllint' to check XML markup files
+[1.591s] -- Configuring done (1.2s)
+[1.595s] -- Generating done (0.0s)
+[1.598s] -- Build files have been written to: /home/hacene/arm_workspace/build/arm_moveit_config
+[1.605s] Invoked command in '/home/hacene/arm_workspace/build/arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/hacene/arm_workspace/src/arm_moveit_config -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/hacene/arm_workspace/install/arm_moveit_config
+[1.606s] Invoking command in '/home/hacene/arm_workspace/build/arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hacene/arm_workspace/build/arm_moveit_config -- -j8 -l8
+[1.666s] Invoked command in '/home/hacene/arm_workspace/build/arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/hacene/arm_workspace/build/arm_moveit_config -- -j8 -l8
+[1.667s] Invoking command in '/home/hacene/arm_workspace/build/arm_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hacene/arm_workspace/build/arm_moveit_config
+[1.679s] -- Install configuration: ""
+[1.680s] -- Execute custom install script
+[1.680s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/ament_index/resource_index/package_run_dependencies/arm_moveit_config
+[1.694s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/ament_index/resource_index/parent_prefix_path/arm_moveit_config
+[1.707s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/environment/ament_prefix_path.sh
+[1.719s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/environment/ament_prefix_path.dsv
+[1.735s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/environment/path.sh
+[1.753s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/environment/path.dsv
+[1.769s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/local_setup.bash
+[1.783s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/local_setup.sh
+[1.797s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/local_setup.zsh
+[1.812s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/local_setup.dsv
+[1.828s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/package.dsv
+[1.843s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/ament_index/resource_index/packages/arm_moveit_config
+[1.859s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/cmake/arm_moveit_configConfig.cmake
+[1.873s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/cmake/arm_moveit_configConfig-version.cmake
+[1.888s] -- Symlinking: /home/hacene/arm_workspace/install/arm_moveit_config/share/arm_moveit_config/package.xml
+[1.904s] Invoked command in '/home/hacene/arm_workspace/build/arm_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/hacene/arm_workspace/build/arm_moveit_config
